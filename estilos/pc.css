@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+header {
+    width: 60%;
+    margin: auto;
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.486);
+    border-radius: 0px 0px 25px 25px;
+    width: 45%;
+    padding: 20px;
+    margin: auto;
+}
